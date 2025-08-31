@@ -1,0 +1,2 @@
+# sample-repo
+THIS IS MY FIRST REPOSITARY
